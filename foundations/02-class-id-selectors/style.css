@@ -1,0 +1,24 @@
+/* Styling for 02-class-id-selectors */
+
+.ABCD {
+    color: black;
+    background-color: palevioletred;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#IDone {
+    color: blue;
+    font-size: 35px;
+}
+
+#one {
+    font-size: 30px;
+}
+
+#IDtwo {
+    color: black;
+    background-color: lightgreen;
+    font-size: 25px;
+    font-weight: bolder;
+}
